@@ -1,0 +1,62 @@
+{
+  "project_info": {
+    "project_number": "512018397457",
+    "firebase_url": "https://baby-names-app-db-9139a.firebaseio.com",
+    "project_id": "baby-names-app-db-9139a",
+    "storage_bucket": "baby-names-app-db-9139a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:512018397457:android:cd26bd62e1d1c9fb",
+        "android_client_info": {
+          "package_name": "digital.direkshan.babynames"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "512018397457-pr2uphade9hblsbr657s65al9tkn2658.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "digital.direkshan.babynames",
+            "certificate_hash": "622f0bee975894b9df216f7dc33eccee781a3b45"
+          }
+        },
+        {
+          "client_id": "512018397457-54p6sd64bfro8p1hq6empjnhmbqqmfvh.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDn8NJ_ciS43wahgW-3y4Lt-3PEu1L5JnU"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "512018397457-6kt149p3mm203aot8g3vrfhqdu5l78a0.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "digital.direkshan.babyNames"
+              }
+            },
+            {
+              "client_id": "512018397457-54p6sd64bfro8p1hq6empjnhmbqqmfvh.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
